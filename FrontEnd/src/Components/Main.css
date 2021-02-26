@@ -1,0 +1,233 @@
+.text-0 {
+    font-size: 11px !important;
+    font-size: 0.6875rem !important;
+}
+
+.text-1 {
+    font-size: 12px !important;
+    font-size: 0.75rem !important;
+}
+
+.text-2 {
+    font-size: 14px !important;
+    font-size: 0.875rem !important;
+}
+
+.text-3 {
+    font-size: 16px !important;
+    font-size: 1rem !important;
+}
+
+.text-4 {
+    font-size: 18px !important;
+    font-size: 1.125rem !important;
+}
+
+.text-5 {
+    font-size: 21px !important;
+    font-size: 1.3125rem !important;
+} 
+
+.text-6 {
+    font-size: 24px !important;
+    font-size: 1.50rem !important;
+}
+  
+.text-7 {
+    font-size: 28px !important;
+    font-size: 1.75rem !important;
+}
+  
+.text-8 {
+    font-size: 32px !important;
+    font-size: 2rem !important;
+}
+
+.text-9 {
+    font-size: 36px !important;
+    font-size: 2.25rem !important;
+}  
+
+.text-10 {
+    font-size: 40px !important;
+    font-size: 2.50rem !important;
+}
+
+.text-11 {
+    font-size: 44px !important;
+    font-size: 2.75rem !important;
+}
+
+.text-13 {
+    font-size: 52px !important;
+    font-size: 3.25rem !important;
+}
+ 
+.text-17 {
+    font-size: 72px !important;
+    font-size: 4.5rem !important;
+}
+ 
+.text-muted {
+    color: #8e9a9d !important;
+}
+
+.font-weight-300 {
+    font-weight: 300 !important;
+}
+
+.font-weight-400 {
+    font-weight: 400 !important;
+}
+
+.font-weight-500 {
+    font-weight: 500 !important;
+}
+   
+.opacity-7 {
+    opacity: 0.7;
+}
+
+.opacity-8 {
+    opacity: 0.8;
+}
+
+.opacity-9 {
+    opacity: 0.9;
+}
+
+.line-height-4 {
+    line-height: 1.6 !important;
+}
+
+#header{
+    background: #d32f2f;
+    color: #f5f5f5;
+    padding: 20px 0px;
+    border-top: 1px solid #ecf3f5; 
+}
+#header .headertitle{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#footer {
+    background: #d32f2f;
+    color: #f5f5f5;
+    padding: 20px 0px;
+    border-top: 1px solid #ecf3f5;
+}
+#footer .footer-copyright {
+    border-top: 1px solid #e2e8ea;
+    padding: 0px 0px;
+    color: #f5f5f5;
+}
+
+#formsection{
+    background-color: #ef9a9a;
+    padding: 20px 0px;
+} 
+#formsection .wrap-login100 {
+    width: 100%;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 44px 55px 33px 55px;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+#cdmid{
+    border: 1px solid #d32f2f;
+    padding: 10px;
+}
+
+.finishtitle{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.test-color{
+    color: #d32f2f;
+}
+
+.icon-text-color {
+    color: #d32f2f !important;
+}
+.contact-input-style{
+    width: 100%;
+    position: relative;
+    border-bottom: 2px solid #d32f2f;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.other-input-style{
+    width: 100%;
+    position: relative;
+    border-bottom: 2px solid #d32f2f;
+}
+.contact-textarea-style{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    border-bottom: 2px solid #d32f2f;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.send-btn{
+    padding: .8rem 2rem;
+    font-weight: 500;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.submitbtn{
+    margin-top: 20px;
+}
+.send-btn-contact{
+    background-color: #fff;
+    border: 1px solid #d32f2f;
+    color: #d32f2f;
+}  
+ 
+.send-btn-contact:hover {
+    background-color: #d32f2f;
+    color: #fff !important;
+    text-decoration: none;
+}
+
+.rowlist{
+    margin: 20px;
+    border-radius: 10%;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+
+.cdmid{
+    border: 1px solid #d32f2f;
+    padding: 10px;
+}
+
+.finishtitle{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+.test-color{
+    color: #d32f2f;
+}
+
+.reportlink{
+    margin: 10px;
+}
+
+.relink{
+    text-decoration: none;
+    color: #fff;
+}
+
+.relink:hover{
+    text-decoration: none;
+    color: #d32f2f;
+}
